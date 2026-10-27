@@ -1,0 +1,1 @@
+"""GitQuality backend package."""
